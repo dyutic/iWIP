@@ -4,15 +4,9 @@ role: Professor of Maternal and Perinatal Health
 avatar_filename: shakila.jpg
 bio: ""
 interests:
-  - "Metabolic disorders: Obesity"
-  - diabetes and polycystic ovary syndrome
-  - "Global Health: Caesarean section"
-  - anaemia
-  - "Maternal and perinatal medicine: Pre-eclampsia"
-  - epilepsy
-  - stillbirth
-  - fetal growth
-  - infection
+  - Metabolic disorders
+  - Global Health
+  - Maternal and perinatal medicine
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,13 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://uk.linkedin.com/in/profthangaratinam
-organizations:
-  - name: University of Birmingahm, UK
-    url: https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/Thangaratinam-Shakila.aspx
+organizations: []
 education:
   courses: []
 email: s.thangaratinam.1@bham.ac.uk
-superuser: true
+superuser: false
 highlight_name: false
 ---
 Shakila Thangaratinam is a professor of maternal and perinatal health at University of Birmingham. As Consultant Obstetrician she is involved in the care of high-risk mothers at [Birmingham Women’s and Children’s NHS Foundation Trust](https://bwc.nhs.uk/about-us/).  
