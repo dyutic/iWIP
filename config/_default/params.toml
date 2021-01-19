@@ -93,11 +93,7 @@ phone = "+44 (0) 7887775891"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "WHO Collaborating Centre for Women's Health
-Institute of Translational Medicine
-Heritage Building
-Mindelsohn Way
-University of Birmingham", city = "Birmingham", region = "", postcode = "B15 2TH", country = "United Kingdom", country_code = "GB"}
+address = {street = "WHO Collaborating Centre for Women's Health Institute of Translational Medicine Heritage Building Mindelsohn Way University of Birmingham", city = "Birmingham", region = "", postcode = "B15 2TH", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
