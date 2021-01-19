@@ -20,10 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://uk.linkedin.com/in/profthangaratinam
-organizations: []
+organizations:
+  - name: University of Birmingahm
 education:
   courses: []
-email: s.thangaratinam.1@bham.ac.uk
+email: ""
 superuser: false
 highlight_name: false
 ---
